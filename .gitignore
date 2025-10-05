@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Outputs
+*_transcripts/
+*/_audio/
+*/_subs_raw/
+*/txt/
+*/all_transcripts.txt
+*/manifest.jsonl
+
+# OS files
+.DS_Store
+Thumbs.db
